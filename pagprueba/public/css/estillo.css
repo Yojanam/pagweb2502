@@ -1,0 +1,9 @@
+#triangulo{
+    width: 0;
+    height: 0;
+    border-bottom: 30px solid #55f;
+    border-right: 20px solid transparent;
+    border-left: 20px   solid transparent;
+
+}
+
